@@ -12,13 +12,14 @@ Backend Engineer based in London, UK, specialising in building scalable Python/D
 
 ---
 
-## 📌 Focus Areas
+<!-- ## 📌 Focus Areas
 
 - Scalable Python backend architecture (Django, FastAPI, microservices)
 - Applied AI — LLM integration, inference pipelines, structured output engineering
 - Production reliability — performance profiling, async task queues, container orchestration
 
 ---
+-->
 
 ## 📬 Get in Touch
 
