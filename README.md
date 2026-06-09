@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ajmal Mohammed 👋
 
-<!--
-**ajmalmohammedn/ajmalmohammedn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Engineer** based in London, UK — I specialise in building scalable Python/Django/FastAPI microservices, with a growing focus on applied AI and LLM-powered systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:** Python · Javascript · SQL · Bash
+
+**Backend:** Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Celery · RabbitMQ
+
+**Infrastructure & DevOps:** AWS · OCI · Kubernetes · Jenkins · NGINX · GitLab CI · GitHub Actions
+
+---
+
+## 📌 Focus Areas
+
+- Scalable Python backend architecture (Django, FastAPI, microservices)
+- Applied AI — LLM integration, inference pipelines, structured output engineering
+- Production reliability — performance profiling, async task queues, container orchestration
+
+---
+
+## 📬 Get in Touch
+
+- **Email:** ajmalmohammedn@gmail.com
+- **Location:** London, UK
