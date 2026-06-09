@@ -1,6 +1,6 @@
 # Hi, I'm Ajmal Mohammed 👋
 
-**Senior Backend Engineer** based in London, UK — I specialise in building scalable Python/Django/FastAPI microservices, with a growing focus on applied AI and LLM-powered systems.
+**Backend Engineer** based in London, UK. I specialise in building scalable Python/Django/FastAPI microservices, with a growing focus on applied AI and LLM-powered systems.
 
 ---
 
